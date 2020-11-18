@@ -1,0 +1,13 @@
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\bin\Debug\netcoreapp3.1\FuncaoWhile.exe
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\bin\Debug\netcoreapp3.1\FuncaoWhile.deps.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\bin\Debug\netcoreapp3.1\FuncaoWhile.runtimeconfig.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\bin\Debug\netcoreapp3.1\FuncaoWhile.runtimeconfig.dev.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\bin\Debug\netcoreapp3.1\FuncaoWhile.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\bin\Debug\netcoreapp3.1\FuncaoWhile.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.csprojAssemblyReference.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.AssemblyInfoInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.AssemblyInfo.cs
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\FuncaoWhile\obj\Debug\netcoreapp3.1\FuncaoWhile.genruntimeconfig.cache
